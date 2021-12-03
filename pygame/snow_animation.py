@@ -4,7 +4,6 @@ import random
 pygame.init()
 BLACK = [0,0,0]
 WHITE = [255,255,255]
-RED = [196,0,13]
 
 SIZE = [400,400]
 
