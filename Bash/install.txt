@@ -1,0 +1,4 @@
+1. Download bash script
+2. Change the cd PATH
+3. Move file to /usr/bin/
+4. Run . jvz.sh -net
